@@ -1,0 +1,4 @@
+#Sun Sep 27 17:09:06 PKT 2020
+base.0=/Users/amiraslam/Documents/flutter_projects/iLoveAE 1.10.27 AM/build/app/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex
